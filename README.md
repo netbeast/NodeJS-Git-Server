@@ -1,4 +1,6 @@
-# Node Git Repo Server
+# gitbox
+
+## Node Git Repo Server
 
 A multi-tenant git server using NodeJS.
 
@@ -20,7 +22,7 @@ make test
 ```
 
 
-# New Functions
+# Functions
 
 Now, it's possible to add new repos and users while the git server is running.
 You just need to know what is the location of the repositories.
