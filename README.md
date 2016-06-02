@@ -8,13 +8,13 @@ Made to be able to support many git repo's and users with Read/Write customizabl
 To install the git server run:
 
 ```
-npm install gitServer
+npm install gitbox
 
 ```
 To run tests
 
 ```
-git clone https://github.com/netbeast/NodeJS-Git-Server
+git clone https://github.com/netbeast/gitbox
 cd ./NodeJS-Git-Server
 make test
 ```
